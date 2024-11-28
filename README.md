@@ -1,6 +1,10 @@
 # Additional Data for Search Reproducibility
 
-This repository provides additional data regarding the conducted search for the review "A Review of Software Architecture Optimization Approaches for Cloud Applications" to ensure reproducibility. It includes the following files:
+This repository provides additional data regarding the conducted search for the review "A Review of Software Architecture Optimization Approaches for Cloud Applications" to ensure reproducibility.
+Unfortunately the data for the search results were not documented during the search.
+Therefore the results presented here where derived by applying the corresponding search period in the search engines of the databases and may not respect removed entries.
+
+It includes the following files:
 
 - **Search Results**: BibTeX files containing all entries returned for search strings for a database during the search process.
 - **Reviewed but Excluded**: BibTeX file of papers whose full text was reviewed but ultimately did not fulfill the inclusion/exclusion criteria.
